@@ -1,0 +1,2 @@
+Invoking command in '/home/juan_c/ros2_ws/build/manipulator_description': /usr/bin/cmake --build /home/juan_c/ros2_ws/build/manipulator_description -- -j4 -l4
+Invoked command in '/home/juan_c/ros2_ws/build/manipulator_description' returned '2': /usr/bin/cmake --build /home/juan_c/ros2_ws/build/manipulator_description -- -j4 -l4

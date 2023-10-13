@@ -4,6 +4,8 @@
 /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/meshes/link_1.STL
 /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/meshes/link_2.STL
 /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/urdf/manipulator.urdf.xacro
+/home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/launch/display.launch.py
+/home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/rviz/display.rviz
 /home/juan_c/ros2_ws/install/manipulator_description/share/ament_index/resource_index/package_run_dependencies/manipulator_description
 /home/juan_c/ros2_ws/install/manipulator_description/share/ament_index/resource_index/parent_prefix_path/manipulator_description
 /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/environment/ament_prefix_path.sh

@@ -1,0 +1,32 @@
+[0.148s] Invoking command in '/home/juan_c/ros2_ws/build/manipulator_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/juan_c/ros2_ws/build/manipulator_description -- -j4 -l4
+[0.493s] Invoked command in '/home/juan_c/ros2_ws/build/manipulator_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/juan_c/ros2_ws/build/manipulator_description -- -j4 -l4
+[0.740s] Invoking command in '/home/juan_c/ros2_ws/build/manipulator_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --install /home/juan_c/ros2_ws/build/manipulator_description
+[0.822s] -- Install configuration: ""
+[0.823s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/meshes
+[0.846s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/meshes/base_link.STL
+[0.847s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/meshes/link_4.STL
+[0.848s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/meshes/link_3.STL
+[0.864s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/meshes/link_1.STL
+[0.865s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/meshes/link_2.STL
+[0.867s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/urdf
+[0.873s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/urdf/manipulator.urdf.xacro
+[0.930s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/launch
+[0.931s] -- Installing: /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/launch/display.launch.py
+[0.937s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/rviz
+[0.938s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/rviz/display.rviz
+[0.939s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/ament_index/resource_index/package_run_dependencies/manipulator_description
+[0.940s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/ament_index/resource_index/parent_prefix_path/manipulator_description
+[0.954s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/environment/ament_prefix_path.sh
+[0.955s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/environment/ament_prefix_path.dsv
+[0.956s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/environment/path.sh
+[0.963s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/environment/path.dsv
+[0.964s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/local_setup.bash
+[0.965s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/local_setup.sh
+[0.966s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/local_setup.zsh
+[0.967s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/local_setup.dsv
+[0.968s] -- Installing: /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/package.dsv
+[0.968s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/ament_index/resource_index/packages/manipulator_description
+[0.969s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/cmake/manipulator_descriptionConfig.cmake
+[0.970s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/cmake/manipulator_descriptionConfig-version.cmake
+[1.009s] -- Up-to-date: /home/juan_c/ros2_ws/install/manipulator_description/share/manipulator_description/package.xml
+[1.013s] Invoked command in '/home/juan_c/ros2_ws/build/manipulator_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --install /home/juan_c/ros2_ws/build/manipulator_description

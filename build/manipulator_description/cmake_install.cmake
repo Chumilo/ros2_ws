@@ -46,6 +46,8 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/manipulator_description" TYPE DIRECTORY FILES
     "/home/juan_c/ros2_ws/src/manipulator_description/meshes"
     "/home/juan_c/ros2_ws/src/manipulator_description/urdf"
+    "/home/juan_c/ros2_ws/src/manipulator_description/launch"
+    "/home/juan_c/ros2_ws/src/manipulator_description/rviz"
     )
 endif()
 
